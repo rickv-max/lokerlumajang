@@ -40,7 +40,7 @@ import {
 
 import Admin from "./pages/Admin";
 import Login from "./pages/Login";
-import About from "./pages/about";
+import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Privacy from "./pages/Privacy";
 import Terms from "./pages/Terms";
