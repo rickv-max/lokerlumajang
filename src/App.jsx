@@ -1195,7 +1195,7 @@ Terima kasih.`,
                         `Halo Admin ${selectedJob.company}, saya tertarik dengan lowongan ${selectedJob.title} di ${selectedJob.location}.
 
 Saya melihat informasi ini di website :
-https://lokerlumajang.id
+https://lokerlumajang.vercel.app
 
 Mohon info lebih lanjut, terima kasih.`,
                       )}`}
@@ -1218,7 +1218,7 @@ Mohon info lebih lanjut, terima kasih.`,
 Saya tertarik dengan posisi ${selectedJob.title} di ${selectedJob.location}.
 
 Saya mengetahui informasi ini dari:
-https://lokerlumajang.id
+https://lokerlumajang.vercel.app
 
 Berikut CV saya terlampir.
 
