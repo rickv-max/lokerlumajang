@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-<loc>https://lokerlumajang.id/</loc>
-<priority>1.0</priority>
-</url>
-
-<url>
-<loc>https://lokerlumajang.id/about</loc>
-</url>
-
-<url>
-<loc>https://lokerlumajang.id/privacy</loc>
-</url>
-
-<url>
-<loc>https://lokerlumajang.id/contact</loc>
-</url>
-
+  <url>
+    <loc>https://lokerlumajang.vercel.app/</loc>
+  </url>
+  <url>
+    <loc>https://lokerlumajang.vercel.app/about</loc>
+  </url>
+  <url>
+    <loc>https://lokerlumajang.vercel.app/contact</loc>
+  </url>
+  <url>
+    <loc>https://lokerlumajang.vercel.app/privacy</loc>
+  </url>
+  <url>
+    <loc>https://lokerlumajang.vercel.app/terms</loc>
+  </url>
 </urlset>
